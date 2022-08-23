@@ -1,0 +1,7 @@
+.idea
+.DS_Store
+
+generator/node_modules
+generator/*.csv
+
+*.tar.gz
